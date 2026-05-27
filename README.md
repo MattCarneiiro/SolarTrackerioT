@@ -126,7 +126,7 @@ dashboard.html (Visualização)
 
 ---
 
-## 💬 Desenvolvedor
+## 💬 Desenvolvedor - MattCarneiiro
 
 Solar Tracker - Projeto educacional de rastreamento solar automático.
 
