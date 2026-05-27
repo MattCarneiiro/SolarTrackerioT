@@ -1,0 +1,2 @@
+# Solar Tracker Dashboard Server
+# Dependências mínimas - servidor usa principalmente stdlib
